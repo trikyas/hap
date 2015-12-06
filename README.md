@@ -17,9 +17,13 @@ At the present time we can offer to create your project Jquery plugin.
 The plugin has a function mini HTML-framework to maintain the adaptability of the site.
 You can use the plug-in to extend the functionality of other HTML-frameworks such as: Twitter Bootstrap.
 
-### Installation and setup - download and plug in before the closing </body> Jquery plugin "HAP" (HTML as Picture).
+### Installation and setup - download and plug in before the closing `</body>` Jquery plugin "HAP" (HTML as Picture).
 
 #### Recommendation on the site layout using the plugin "HAP":
 - Magnitude of the width of the container is set to "%". Indentation, font sizes, UL-elements installed in EM.
 - Not use the small picture: the images on the buttons is better to resort to icon fonts (eg: FontAwesome).
 - Do not use the font size is less than 10px.
+
+To avoid problems it is best to create the design of the future site resolution is 500/1000/1500/2000 / PX.
+
+#### Note: For the container to 1000px width font size in the `<BODY>` is 100px.
