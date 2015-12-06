@@ -4,6 +4,7 @@ With the advent of cross-platform requirements and with pixel precision sites, t
 This is especially true for the full screen mode sites.
 Implement an adaptive pixel-perfect design, it was a daunting task.
 
+![HAP - Logo](http://hap.themedron.com/assets/img/Logo.png)
 
 HAP - "HTML AS PICTURE":
 ===========
